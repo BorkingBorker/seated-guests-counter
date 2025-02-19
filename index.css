@@ -1,0 +1,72 @@
+body {
+    font-family: "Yesteryear", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-shadow: 0px 0px 10px white;
+    background-image: url(/669053a0b6ab9.webp);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    width: 100%;
+    max-width: 600px; /* Adjust the max width as needed */
+    margin: 0 auto;
+    padding: 20px;
+    background-image: url(/DM150_600x416.jpg);
+    background-size: cover;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.hero {
+    text-align: center;
+}
+
+h1 {
+    font-family: "Yesteryear", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 10px;
+    border: ridge black;
+    border-radius: 5px;
+    background-image: url(/wood.jpg);
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    text-shadow: 0px 0px 10px white;
+}
+
+.content {
+    text-align: center;
+}
+
+#save-el {
+    font-size: 25px;
+    text-shadow: 0px 0px 10px white;
+}
+
+.yesteryear-regular {
+  font-family: "Yesteryear", serif;
+  font-weight: 400;
+  font-style: normal;
+}
